@@ -79,5 +79,3 @@ Ferrari: 33 pts, 1 podium(s)
 ```
 
 ---
-
-Do you also want me to write a **short one-paragraph project summary** (like for a resume or portfolio), separate from this README? That way you’d have both professional repo docs and a concise highlight version.
